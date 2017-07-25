@@ -21,7 +21,7 @@ Pasta | 3.500 | 9.000
 
 
 DATOS GENERALES
-Villavicencio capital del Departamento del Meta y centro comercial más importante de los Llanos Orientales, la agricultura, la ganadería, y la minería son pilares de la economía, desarrollada por un importante y agitado comercio, respaldado en el recurso financiero, que la convierten en el polo de desarrollo de todos los llanos orientales Etc. Ciudad altamente Turística.
+Villavicencio capital del Departamento del Meta y centro comercial más importante de los Llanos Orientales, la agricultura, la ganadería, y la minería son pilares de la economía, desarrollada por un importante y agitado comercio, respaldado en el recurso financiero, que la convierten en el polo de desarrollo de todos los llanos orientales. Ciudad altamente Turística.
 
 Código CIIU del Proyecto
 1084 Elaboración de comidas y platos preparados.
@@ -38,7 +38,8 @@ Tenemos una diversa gama de productos que pueden llamar la atención de nuestros
 
 Perfil del consumidor: Nuestros consumidores se encuentran en un rango de edades entre los 8 y los 70 años, estas personas sienten pasión por el hecho de sentarse a disfrutar de una comida gourmet en un ambiente cómodo puesto que es un servicio asequible.
 
-2.	 NECESIDADES A SATISFACER DE POTENCIALES CLIENTES
+2.	NECESIDADES A SATISFACER DE POTENCIALES CLIENTES
 Consumidores: Buscamos satisfacer la necesidad del buen gusto y  paladar de los habitantes de Villavicencio y turistas que visitan la ciudad, por una comida deliciosa, un lugar de atención agradable, rápido y tranquilo. 
 
-
+3.	Tendencia De Crecimiento Del Mercado
+En la actualidad la ciudad de Villavicencio se encuentra en un gran crecimiento tanto poblacional como en infraestructura, razón por la cual los inversionistas han colocado diferentes clases de capital en centro comerciales y demás negocios, estableciéndose y generando aún más comercio del que existía hace unos años. 
